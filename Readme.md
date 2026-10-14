@@ -1,4 +1,4 @@
-### \# E-commerce Sales \& Customer Analysis Using SQL
+# E-commerce Sales \& Customer Analysis Using SQL
 
 
 
@@ -12,7 +12,7 @@ Dataset: Simulated E-commerce Data
 
 
 
-#### \## Project Objective
+## Project Objective
 
 The objective of this project is to analyze e-commerce
 
@@ -34,7 +34,7 @@ The analysis focuses on:
 
 
 
-#### \## Database Tables
+## Database Tables
 
 \- customers
 
@@ -46,7 +46,7 @@ The analysis focuses on:
 
 
 
-#### \## Data Note
+## Data Note
 
 This project uses simulated data for educational
 
@@ -58,7 +58,7 @@ real company transactions.
 
 
 
-#### \## Project Status
+## Project Status
 
 
 
@@ -80,7 +80,7 @@ Core SQL analysis completed:
 
 
 
-#### \## Key Findings from Simulated Data
+## Key Findings from Simulated Data
 
 \- Completed orders: 9
 
@@ -98,7 +98,7 @@ Core SQL analysis completed:
 
 
 
-#### \## Tools
+## Tools
 
 \- DB Browser for SQLite
 
@@ -108,7 +108,7 @@ Core SQL analysis completed:
 
 
 
-#### \## Limitations
+## Limitations
 
 The dataset is simulated and relatively small.
 
