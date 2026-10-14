@@ -1,0 +1,109 @@
+BUSINESS INSIGHTS
+Project: E-commerce Sales & Customer Analysis
+
+1. Revenue Performance
+Revenue is calculated from order items belonging
+to orders with a Completed status.
+
+2. Product Performance
+Revenue by product helps identify products that
+contribute the most to completed-order revenue.
+
+3. Customer Behavior
+Customer spending and order frequency can help
+identify valuable customers.
+
+4. Order Status
+The distribution of Completed, Pending, and
+Cancelled orders provides an overview of
+transaction outcomes.
+
+5. Business Recommendations
+- Review top-performing products to understand
+  their contribution to revenue.
+- Investigate Pending and Cancelled orders to
+  identify possible process improvements.
+- Use customer purchasing patterns to guide
+  future marketing strategies.
+
+IMPORTANT NOTE
+These are analytical interpretations, not verified
+business findings. Specific conclusions must be
+supported by the actual SQL query results.
+The dataset is simulated.
+
+KEY METRICS — SQL QUERY RESULTS
+
+Completed Orders: 9
+Completed Revenue: 3,265,000.00
+Order Item Rows in Completed Orders: 11
+
+INTERPRETATION
+The dataset contains 9 completed orders with
+a combined revenue of 3,265,000.00 currency units.
+
+These completed orders contain 11 order-item rows.
+The number of order-item rows is different from
+the number of individual units sold.
+
+Note: The currency unit has not yet been verified.
+The figures are based on simulated data.
+
+PRODUCT PERFORMANCE
+
+The Mechanical Keyboard generated the highest
+revenue among the products in the completed-order
+analysis, with a total revenue of 900,000 currency
+units.
+
+This finding is based on simulated data and does
+not represent actual company sales.
+
+ORDER STATUS ANALYSIS
+
+The dataset contains 12 orders:
+- Completed: 9 orders (75.00%)
+- Pending: 2 orders (16.67%)
+- Cancelled: 1 order (8.33%)
+
+Most orders in this simulated dataset are completed.
+The pending and cancelled orders may warrant further
+investigation to understand potential process issues.
+
+These results are descriptive and do not establish
+the reasons why orders remain pending or are cancelled.
+
+CUSTOMER SPENDING ANALYSIS
+
+The highest-spending customer in the simulated
+dataset is Andi Pratama, with total spending of
+865,000 currency units across completed orders.
+
+This result identifies the customer with the highest
+recorded spending, but does not necessarily indicate
+the highest purchase frequency or customer loyalty.
+
+Further analysis of order frequency could provide
+additional insight into customer purchasing behavior.
+
+AVERAGE UNITS PER COMPLETED ORDER
+
+The average number of units per completed order
+is approximately 2.33 units.
+
+This metric is calculated by summing the quantities
+within each completed order and then averaging
+the order-level totals.
+
+The result is based on simulated data.
+
+CUSTOMER ORDER FREQUENCY
+
+Andi Pratama recorded 2 completed orders in the
+simulated dataset.
+
+Combined with the spending analysis, this shows
+that the customer spent 865,000 currency units
+across completed orders.
+
+This analysis describes the simulated dataset only.
