@@ -118,3 +118,6 @@ The findings should not be generalized to
 
 real-world e-commerce businesses.
 
+## Query Result Screenshot
+
+![Total Revenue Query Result](./total_revenue_result.png)
